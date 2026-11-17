@@ -1,0 +1,4 @@
+• Crie senhas longas e únicas: Utilize no mínimo 12 caracteres misturando letras maiúsculas, minúsculas, números e símbolos. Evite informações pessoais óbvias e nunca repita a mesma senha em serviços diferentes.
+• Use um gerenciador de senhas: Centralize suas credenciais em ferramentas confiáveis como Bitwarden ou 1Password. Esses aplicativos geram combinações aleatórias complexas e preenchem os campos de login automaticamente.
+• Ative a autenticação em dois fatores (2FA): Adicione uma camada extra de proteção em todas as contas importantes. Dê preferência a aplicativos autenticadores ou chaves físicas em vez de códigos enviados por SMS.
+• Verifique o endereço antes de clicar: Confira sempre se o link começa com HTTPS e se o domínio do site está escrito corretamente. Desconfie de mensagens urgentes por e-mail ou redes sociais que pedem atualização imediata de dados bancários.
