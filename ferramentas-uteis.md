@@ -1,0 +1,3 @@
+• Notion: É um espaço de trabalho completo para criar notas, wikis, cronogramas e listas de tarefas em um só lugar. O plano gratuito individual oferece blocos ilimitados e vários modelos prontos para estudos e gestão de projetos.
+• Trello: Funciona como um quadro visual baseado no método Kanban para acompanhar o andamento das suas atividades. Você pode criar colunas como "A fazer", "Fazendo" e "Concluído" e mover os cartões facilmente.
+• Forest (ou Pomofocus): Ajuda a manter a concentração usando a técnica Pomodoro, dividindo o tempo em blocos de foco e pausas curtas. A versão web do Pomofocus é totalmente gratuita e não exige instalação para começar a cronometrar seus estudos.
